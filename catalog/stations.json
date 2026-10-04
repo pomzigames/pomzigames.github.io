@@ -1,0 +1,2377 @@
+{
+    "schemaVersion": 1,
+    "revision": 2026100401,
+    "generatedAt": "2026-10-04T13:00:00Z",
+    "stations": [
+        {
+            "id": "number1-fm",
+            "name": "Number1 FM",
+            "category": "Yabancı Hit",
+            "tags": [
+                "yabancı",
+                "pop",
+                "hit"
+            ],
+            "homepageUrl": "https://www.numberone.com.tr/2015/12/17/number1-fm-dinle-canli-radyo-dinle/",
+            "verifiedAt": "2026-09-14",
+            "streams": [
+                {
+                    "url": "https://number1.radyotvonline.net/hls/play/number1_fm.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "Number1 resmî canlı radyo oynatıcısı"
+                }
+            ],
+            "group": "Yabancı Müzik"
+        },
+        {
+            "id": "number1-turk",
+            "name": "Number1 Türk",
+            "category": "Türkçe Pop",
+            "tags": [
+                "türkçe",
+                "pop",
+                "hit"
+            ],
+            "homepageUrl": "https://www.numberone.com.tr/2015/12/17/nr1-turk-fm-dinle-canli-radyo-dinle/",
+            "verifiedAt": "2026-09-14",
+            "streams": [
+                {
+                    "url": "https://number1.radyotvonline.net/hls/play/number1_turk_fm.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "Number1 resmî canlı radyo oynatıcısı"
+                }
+            ],
+            "group": "Türkçe Pop"
+        },
+        {
+            "id": "number1-turk-90lar",
+            "name": "Number1 Türk 90'lar",
+            "category": "Nostalji",
+            "tags": [
+                "türkçe",
+                "90lar",
+                "nostalji"
+            ],
+            "homepageUrl": "https://www.numberone.com.tr/2017/02/08/number1-90lar-canli-radyo-dinle/",
+            "verifiedAt": "2026-09-14",
+            "streams": [
+                {
+                    "url": "https://ssldyg2.radyotvonline.com/live/turkce90lar.stream/playlist.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "Number1 resmî 90'lar canlı oynatıcısı"
+                }
+            ],
+            "group": "Nostalji"
+        },
+        {
+            "id": "power-fm",
+            "name": "Power FM",
+            "category": "Yabancı Hit",
+            "tags": [
+                "yabancı",
+                "pop",
+                "hit"
+            ],
+            "homepageUrl": "https://www.powerapp.com.tr/radios/powerfm/",
+            "verifiedAt": "2026-09-15",
+            "streams": [
+                {
+                    "url": "https://live.powerapp.com.tr/powerfmadver/abr/playlist.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "PowerApp resmî kanal API'si"
+                },
+                {
+                    "url": "https://live.powerapp.com.tr/powerfmadver/128/playlist.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "PowerApp resmî 128 kbps yedek akışı"
+                }
+            ],
+            "group": "Yabancı Müzik"
+        },
+        {
+            "id": "powerturk",
+            "name": "PowerTürk",
+            "category": "Türkçe Pop",
+            "tags": [
+                "türkçe",
+                "pop",
+                "hit"
+            ],
+            "homepageUrl": "https://www.powerapp.com.tr/radios/powerturk",
+            "verifiedAt": "2026-09-14",
+            "streams": [
+                {
+                    "url": "https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "PowerApp resmî kanal API'si"
+                },
+                {
+                    "url": "https://live.powerapp.com.tr/powerturk/128/playlist.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "PowerApp resmî 128 kbps yedek akışı"
+                }
+            ],
+            "group": "Türkçe Pop"
+        },
+        {
+            "id": "kral-fm",
+            "name": "Kral FM",
+            "category": "Arabesk / Türkçe",
+            "tags": [
+                "arabesk",
+                "türkçe",
+                "fantazi"
+            ],
+            "homepageUrl": "https://www.kralmuzik.com.tr/radyo/kral-fm",
+            "verifiedAt": "2026-09-14",
+            "streams": [
+                {
+                    "url": "https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "Kral FM resmî canlı oynatıcısı"
+                }
+            ],
+            "group": "Arabesk"
+        },
+        {
+            "id": "kral-pop",
+            "name": "Kral Pop",
+            "category": "Türkçe Pop",
+            "tags": [
+                "türkçe",
+                "pop",
+                "hit"
+            ],
+            "homepageUrl": "https://www.kralmuzik.com.tr/radyo/kral-pop",
+            "verifiedAt": "2026-09-14",
+            "streams": [
+                {
+                    "url": "https://dygedge.radyotvonline.net/kralpop/playlist.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "Kral Pop resmî canlı oynatıcısı"
+                }
+            ],
+            "group": "Türkçe Pop"
+        },
+        {
+            "id": "super-fm",
+            "name": "Süper FM",
+            "category": "Türkçe Pop",
+            "tags": [
+                "türkçe",
+                "pop",
+                "hit"
+            ],
+            "homepageUrl": "https://www.karnaval.com/radyolar/superfm",
+            "verifiedAt": "2026-09-15",
+            "streams": [
+                {
+                    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM128AAC.aac",
+                    "format": "aacp",
+                    "trust": "official",
+                    "source": "Karnaval'ın kullandığı resmî Triton istasyon akışı"
+                },
+                {
+                    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM.mp3",
+                    "format": "mp3",
+                    "trust": "official",
+                    "source": "Karnaval Triton MP3 yedek akışı"
+                }
+            ],
+            "group": "Türkçe Pop"
+        },
+        {
+            "id": "metro-fm",
+            "name": "Metro FM",
+            "category": "Yabancı Hit",
+            "tags": [
+                "yabancı",
+                "pop",
+                "hit"
+            ],
+            "homepageUrl": "https://www.karnaval.com/radyolar/metrofm",
+            "verifiedAt": "2026-09-15",
+            "streams": [
+                {
+                    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FM128AAC.aac",
+                    "format": "aacp",
+                    "trust": "official",
+                    "source": "Karnaval'ın kullandığı resmî Triton istasyon akışı"
+                },
+                {
+                    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FM.mp3",
+                    "format": "mp3",
+                    "trust": "official",
+                    "source": "Karnaval Triton MP3 yedek akışı"
+                }
+            ],
+            "group": "Yabancı Müzik"
+        },
+        {
+            "id": "joyturk",
+            "name": "JoyTürk",
+            "category": "Türkçe Slow",
+            "tags": [
+                "türkçe",
+                "slow",
+                "pop"
+            ],
+            "homepageUrl": "https://www.karnaval.com/radyolar/joyturk",
+            "verifiedAt": "2026-09-15",
+            "streams": [
+                {
+                    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK128AAC.aac",
+                    "format": "aacp",
+                    "trust": "official",
+                    "source": "Karnaval'ın kullandığı resmî Triton istasyon akışı"
+                },
+                {
+                    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK.mp3",
+                    "format": "mp3",
+                    "trust": "official",
+                    "source": "Karnaval Triton MP3 yedek akışı"
+                }
+            ],
+            "group": "Slow"
+        },
+        {
+            "id": "fenomen",
+            "name": "Radyo Fenomen",
+            "category": "Yabancı / Dans",
+            "tags": [
+                "yabancı",
+                "dans",
+                "elektronik"
+            ],
+            "homepageUrl": "https://www.radyofenomen.com/",
+            "verifiedAt": "2026-09-15",
+            "streams": [
+                {
+                    "url": "https://live.radyofenomen.com/fenomen/128/icecast.audio",
+                    "format": "aacp",
+                    "trust": "official",
+                    "source": "Fenomen resmî FetchStream API sonucu"
+                }
+            ],
+            "group": "Alternatif"
+        },
+        {
+            "id": "pal-fm",
+            "name": "PAL FM",
+            "category": "Türkçe Pop",
+            "tags": [
+                "türkçe",
+                "pop",
+                "hit"
+            ],
+            "verifiedAt": "2026-09-15",
+            "streams": [
+                {
+                    "url": "https://moondigitaledge.radyotvonline.net/palfm/playlist.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "PAL FM resmî canlı oynatıcısı"
+                }
+            ],
+            "group": "Türkçe Pop"
+        },
+        {
+            "id": "radyo-45lik",
+            "name": "Radyo 45'lik",
+            "category": "Nostalji",
+            "tags": [
+                "nostalji",
+                "45lik",
+                "türkçe"
+            ],
+            "homepageUrl": "https://radyo45lik.com/sitene-ekle/",
+            "verifiedAt": "2026-09-14",
+            "streams": [
+                {
+                    "url": "https://stream.radyo45lik.com:4545/",
+                    "format": "aac",
+                    "trust": "official",
+                    "source": "Radyo 45'lik resmî gömülebilir oynatıcısı"
+                }
+            ],
+            "group": "Nostalji"
+        },
+        {
+            "id": "trt-radyo-1",
+            "name": "TRT Radyo 1",
+            "category": "Haber / Program",
+            "tags": [
+                "trt",
+                "haber",
+                "spor",
+                "program"
+            ],
+            "homepageUrl": "https://radyo.trt.net.tr/",
+            "verifiedAt": "2026-09-15",
+            "streams": [
+                {
+                    "url": "https://trt.radyotvonline.net/trt1",
+                    "format": "aacp",
+                    "trust": "official",
+                    "source": "TRT resmî radyo player.js kataloğu"
+                }
+            ],
+            "group": "Sohbet"
+        },
+        {
+            "id": "trt-fm",
+            "name": "TRT FM",
+            "category": "Müzik / Program",
+            "tags": [
+                "trt",
+                "türkçe",
+                "müzik",
+                "program"
+            ],
+            "homepageUrl": "https://radyo.trt.net.tr/",
+            "verifiedAt": "2026-09-15",
+            "streams": [
+                {
+                    "url": "https://trt.radyotvonline.net/trtfm",
+                    "format": "aacp",
+                    "trust": "official",
+                    "source": "TRT resmî radyo player.js kataloğu"
+                }
+            ],
+            "group": "Türkçe Pop"
+        },
+        {
+            "id": "trt-radyo-3",
+            "name": "TRT Radyo 3",
+            "category": "Klasik / Caz",
+            "tags": [
+                "trt",
+                "klasik",
+                "caz",
+                "müzik"
+            ],
+            "homepageUrl": "https://radyo.trt.net.tr/",
+            "verifiedAt": "2026-09-14",
+            "streams": [
+                {
+                    "url": "https://rd-trtradyo3.medya.trt.com.tr/master.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "TRT resmî radyo player.js kataloğu"
+                }
+            ],
+            "group": "Yabancı Müzik"
+        },
+        {
+            "id": "trt-nagme",
+            "name": "TRT Nağme",
+            "category": "Türk Sanat Müziği",
+            "tags": [
+                "trt",
+                "tsm",
+                "sanat müziği"
+            ],
+            "homepageUrl": "https://radyo.trt.net.tr/",
+            "verifiedAt": "2026-09-14",
+            "streams": [
+                {
+                    "url": "https://rd-trtnagme.medya.trt.com.tr/master.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "TRT resmî radyo player.js kataloğu"
+                }
+            ],
+            "group": "Türk Sanat Müziği"
+        },
+        {
+            "id": "trt-turku",
+            "name": "TRT Türkü",
+            "category": "Türk Halk Müziği",
+            "tags": [
+                "trt",
+                "türkü",
+                "halk müziği"
+            ],
+            "homepageUrl": "https://radyo.trt.net.tr/",
+            "verifiedAt": "2026-09-14",
+            "streams": [
+                {
+                    "url": "https://rd-trtturku.medya.trt.com.tr/master.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "TRT resmî radyo player.js kataloğu"
+                }
+            ],
+            "group": "Türkü"
+        },
+        {
+            "id": "trt-radyo-haber",
+            "name": "TRT Radyo Haber",
+            "category": "Haber",
+            "tags": [
+                "trt",
+                "haber",
+                "gündem"
+            ],
+            "homepageUrl": "https://radyo.trt.net.tr/",
+            "verifiedAt": "2026-09-15",
+            "streams": [
+                {
+                    "url": "https://trt.radyotvonline.net/trthaber",
+                    "format": "aacp",
+                    "trust": "official",
+                    "source": "TRT resmî radyo player.js kataloğu"
+                }
+            ],
+            "group": "Haber"
+        },
+        {
+            "id": "trt-antalya",
+            "name": "TRT Antalya Radyosu",
+            "category": "Bölgesel",
+            "tags": [
+                "trt",
+                "antalya",
+                "bölgesel"
+            ],
+            "homepageUrl": "https://radyo.trt.net.tr/",
+            "verifiedAt": "2026-09-14",
+            "streams": [
+                {
+                    "url": "https://radio-trtantalya.medya.trt.com.tr/master.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "TRT resmî radyo player.js kataloğu"
+                }
+            ],
+            "group": "Yerel"
+        },
+        {
+            "id": "trt-cukurova",
+            "name": "TRT Çukurova Radyosu",
+            "category": "Bölgesel",
+            "tags": [
+                "trt",
+                "çukurova",
+                "bölgesel"
+            ],
+            "homepageUrl": "https://radyo.trt.net.tr/",
+            "verifiedAt": "2026-09-14",
+            "streams": [
+                {
+                    "url": "https://radio-trtcukurova.medya.trt.com.tr/master.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "TRT resmî radyo player.js kataloğu"
+                }
+            ],
+            "group": "Yerel"
+        },
+        {
+            "id": "trt-gap-diyarbakir",
+            "name": "TRT GAP Diyarbakır",
+            "category": "Bölgesel",
+            "tags": [
+                "trt",
+                "diyarbakır",
+                "gap",
+                "bölgesel"
+            ],
+            "homepageUrl": "https://radyo.trt.net.tr/",
+            "verifiedAt": "2026-09-14",
+            "streams": [
+                {
+                    "url": "https://radio-trtgap.medya.trt.com.tr/master.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "TRT resmî radyo player.js kataloğu"
+                }
+            ],
+            "group": "Yerel"
+        },
+        {
+            "id": "trt-erzurum",
+            "name": "TRT Erzurum Radyosu",
+            "category": "Bölgesel",
+            "tags": [
+                "trt",
+                "erzurum",
+                "bölgesel"
+            ],
+            "homepageUrl": "https://radyo.trt.net.tr/",
+            "verifiedAt": "2026-09-14",
+            "streams": [
+                {
+                    "url": "https://radio-trterzurum.medya.trt.com.tr/master.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "TRT resmî radyo player.js kataloğu"
+                }
+            ],
+            "group": "Yerel"
+        },
+        {
+            "id": "trt-trabzon",
+            "name": "TRT Trabzon Radyosu",
+            "category": "Bölgesel",
+            "tags": [
+                "trt",
+                "trabzon",
+                "bölgesel"
+            ],
+            "homepageUrl": "https://radyo.trt.net.tr/",
+            "verifiedAt": "2026-09-14",
+            "streams": [
+                {
+                    "url": "https://radio-trttrabzon.medya.trt.com.tr/master.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "TRT resmî radyo player.js kataloğu"
+                }
+            ],
+            "group": "Karadeniz"
+        },
+        {
+            "id": "trt-tsr",
+            "name": "TRT Türkiye'nin Sesi Radyosu",
+            "category": "Dünya / Program",
+            "tags": [
+                "trt",
+                "dünya",
+                "çok dilli"
+            ],
+            "homepageUrl": "https://radyo.trt.net.tr/",
+            "verifiedAt": "2026-09-14",
+            "streams": [
+                {
+                    "url": "https://radio-trttsr.medya.trt.com.tr/master.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "TRT resmî radyo player.js kataloğu"
+                }
+            ],
+            "group": "Sohbet"
+        },
+        {
+            "id": "trt-memleketim-fm",
+            "name": "TRT Memleketim FM",
+            "category": "Türkçe Pop / Karma",
+            "tags": [
+                "trt",
+                "türkçe",
+                "müzik"
+            ],
+            "homepageUrl": "https://radyo.trt.net.tr/",
+            "verifiedAt": "2026-09-14",
+            "streams": [
+                {
+                    "url": "https://radio-trtmemleketimfm.medya.trt.com.tr/master.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "TRT resmî radyo player.js kataloğu"
+                }
+            ],
+            "group": "Türkçe Pop"
+        },
+        {
+            "id": "kafa-radyo",
+            "name": "Kafa Radyo",
+            "category": "Sohbet / Müzik",
+            "group": "Sohbet",
+            "tags": [
+                "sohbet",
+                "gündem",
+                "kültür",
+                "türkçe"
+            ],
+            "homepageUrl": "https://kafaradyo.com/",
+            "verifiedAt": "2026-09-15",
+            "streams": [
+                {
+                    "url": "https://stream.radyotvonline.net/hls/play/kafaradyo.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "Kafa Radyo resmî web oynatıcısının canlı HLS isteği"
+                },
+                {
+                    "url": "https://moondigitalmaster.radyotvonline.net/kafaradyo/playlist.m3u8",
+                    "format": "hls",
+                    "trust": "verified-third-party",
+                    "source": "Aynı yayın altyapısındaki doğrulanmış HLS yedek akışı"
+                },
+                {
+                    "url": "https://moondigitaledge2.radyotvonline.net/kafaradyo/playlist.m3u8",
+                    "format": "hls",
+                    "trust": "verified-third-party",
+                    "source": "Aynı yayın altyapısındaki doğrulanmış ikinci HLS yedeği"
+                }
+            ]
+        },
+        {
+            "id": "lig-radyo",
+            "name": "Lig Radyo",
+            "category": "Spor",
+            "group": "Spor",
+            "tags": [
+                "spor",
+                "futbol",
+                "maç",
+                "haber"
+            ],
+            "homepageUrl": "https://www.ligradyo.com.tr/",
+            "verifiedAt": "2026-09-15",
+            "streams": [
+                {
+                    "url": "https://ligradyo.radyotvonline.net/ligradyo",
+                    "format": "mp3",
+                    "trust": "official",
+                    "source": "Lig Radyo resmî sayfasındaki audio öğesinin doğrudan akışı"
+                }
+            ]
+        },
+        {
+            "id": "radyospor",
+            "name": "Radyospor",
+            "category": "Spor",
+            "group": "Spor",
+            "tags": [
+                "spor",
+                "futbol",
+                "maç",
+                "haber"
+            ],
+            "homepageUrl": "https://www.radyospor.com/",
+            "verifiedAt": "2026-09-15",
+            "streams": [
+                {
+                    "url": "https://moondigitaledge.radyotvonline.net/radyospor/playlist.m3u8",
+                    "format": "hls",
+                    "trust": "verified-third-party",
+                    "source": "Canlı ses parçasına kadar doğrulandı; resmî site playerı kontrol anında geçici hata gösterdi"
+                }
+            ]
+        },
+        {
+            "id": "aspor-radyo",
+            "name": "A Spor Radyo",
+            "category": "Spor",
+            "group": "Spor",
+            "tags": [
+                "spor",
+                "futbol",
+                "maç",
+                "haber"
+            ],
+            "homepageUrl": "https://www.turkuvazradyolar.com/asporradyo",
+            "verifiedAt": "2026-09-15",
+            "streams": [
+                {
+                    "url": "https://trkvz-radyolar.ercdn.net/asporradyo/playlist.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "Turkuvaz Radyolar resmî A Spor Radyo oynatıcısı"
+                }
+            ]
+        },
+        {
+            "id": "best-fm",
+            "name": "Best FM",
+            "category": "Türkçe Pop / Sohbet",
+            "group": "Türkçe Pop",
+            "tags": [
+                "türkçe",
+                "pop",
+                "sohbet",
+                "haber"
+            ],
+            "homepageUrl": "https://www.bestfm.com.tr/",
+            "verifiedAt": "2026-09-15",
+            "streams": [
+                {
+                    "url": "https://ssldyg.radyotvonline.com/best/bestfm.stream/playlist.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "Best FM resmî web oynatıcısının canlı HLS isteği"
+                }
+            ]
+        },
+        {
+            "id": "alem-fm",
+            "name": "Alem FM",
+            "category": "Türkçe Pop",
+            "group": "Türkçe Pop",
+            "tags": [
+                "türkçe",
+                "pop",
+                "eğlence"
+            ],
+            "homepageUrl": "https://www.alemfm.com/home/canliradyo",
+            "verifiedAt": "2026-09-15",
+            "streams": [
+                {
+                    "url": "https://alemfm.radyotvonline.net/alemfmaac",
+                    "format": "aacp",
+                    "trust": "official",
+                    "source": "Alem FM resmî canlı radyo sayfasındaki doğrudan AAC akışı"
+                }
+            ]
+        },
+        {
+            "id": "haberturk-radyo",
+            "name": "Habertürk Radyo",
+            "category": "Haber",
+            "group": "Haber",
+            "tags": [
+                "haber",
+                "gündem",
+                "ekonomi",
+                "spor"
+            ],
+            "homepageUrl": "https://www.haberturkradyo.com.tr/",
+            "verifiedAt": "2026-09-15",
+            "streams": [
+                {
+                    "url": "https://haberturkradyo.radyotvonline.net/haberturkradyo",
+                    "format": "aacp",
+                    "trust": "official",
+                    "source": "Habertürk Radyo resmî sayfasındaki video/audio öğesinin doğrudan akışı"
+                }
+            ]
+        },
+        {
+            "id": "ntv-radyo",
+            "name": "NTV Radyo",
+            "category": "Haber / Kültür",
+            "group": "Haber",
+            "tags": [
+                "haber",
+                "gündem",
+                "kültür",
+                "ekonomi"
+            ],
+            "homepageUrl": "https://www.ntvradyo.com.tr/",
+            "verifiedAt": "2026-09-15",
+            "streams": [
+                {
+                    "url": "https://dygedge.radyotvonline.net/ntvradyo/playlist.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "NTV Radyo resmî canlı oynatıcısının HLS isteği"
+                }
+            ]
+        },
+        {
+            "id": "radyo-turkuvaz",
+            "name": "Radyo Turkuvaz",
+            "category": "Türkçe Pop / Karma",
+            "group": "Türkçe Pop",
+            "tags": [
+                "türkçe",
+                "pop",
+                "müzik"
+            ],
+            "homepageUrl": "https://www.turkuvazradyolar.com/radyoturkuvaz",
+            "verifiedAt": "2026-09-15",
+            "streams": [
+                {
+                    "url": "https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "Turkuvaz Radyolar resmî oynatıcısı"
+                }
+            ]
+        },
+        {
+            "id": "a-haber-radyo",
+            "name": "A Haber Radyo",
+            "category": "Haber",
+            "group": "Haber",
+            "tags": [
+                "haber",
+                "gündem",
+                "ekonomi",
+                "spor"
+            ],
+            "homepageUrl": "https://www.turkuvazradyolar.com/ahaberradyo",
+            "verifiedAt": "2026-09-15",
+            "streams": [
+                {
+                    "url": "https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "Turkuvaz Radyolar resmî A Haber Radyo oynatıcısı"
+                }
+            ]
+        },
+        {
+            "id": "a-para-radyo",
+            "name": "A Para Radyo",
+            "category": "Ekonomi / Haber",
+            "group": "Haber",
+            "tags": [
+                "haber",
+                "ekonomi",
+                "finans",
+                "gündem"
+            ],
+            "homepageUrl": "https://www.turkuvazradyolar.com/apararadyo",
+            "verifiedAt": "2026-09-15",
+            "streams": [
+                {
+                    "url": "https://trkvz-radyolar.ercdn.net/apararadyo/playlist.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "Turkuvaz Radyolar resmî A Para Radyo oynatıcısı"
+                }
+            ]
+        },
+        {
+            "id": "radyo-soft",
+            "name": "Radyo Soft",
+            "category": "Soft Müzik",
+            "group": "Slow",
+            "tags": [
+                "slow",
+                "soft",
+                "müzik"
+            ],
+            "homepageUrl": "https://www.turkuvazradyolar.com/radyosoft",
+            "verifiedAt": "2026-09-15",
+            "streams": [
+                {
+                    "url": "https://trkvz-radyolar.ercdn.net/radyosoft/playlist.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "Turkuvaz Radyolar resmî Radyo Soft oynatıcısı"
+                }
+            ]
+        },
+        {
+            "id": "turkuvaz-romantik",
+            "name": "Turkuvaz Romantik",
+            "category": "Romantik / Slow",
+            "group": "Slow",
+            "tags": [
+                "slow",
+                "romantik",
+                "türkçe"
+            ],
+            "homepageUrl": "https://www.turkuvazradyolar.com/turkuvazromantik",
+            "verifiedAt": "2026-09-15",
+            "streams": [
+                {
+                    "url": "https://trkvz-radyolar.ercdn.net/turkuvazromantik/playlist.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "Turkuvaz Radyolar resmî Romantik oynatıcısı"
+                }
+            ]
+        },
+        {
+            "id": "turkuvaz-efsane",
+            "name": "Turkuvaz Efsane",
+            "category": "Nostalji",
+            "group": "Nostalji",
+            "tags": [
+                "nostalji",
+                "türkçe",
+                "klasikler"
+            ],
+            "homepageUrl": "https://www.turkuvazradyolar.com/turkuvazefsane",
+            "verifiedAt": "2026-09-15",
+            "streams": [
+                {
+                    "url": "https://trkvz-radyolar.ercdn.net/turkuvazefsane/playlist.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "Turkuvaz Radyolar resmî Efsane oynatıcısı"
+                }
+            ]
+        },
+        {
+            "id": "turkuvaz-anadolu",
+            "name": "Turkuvaz Anadolu",
+            "category": "Türk Halk Müziği",
+            "group": "Türkü",
+            "tags": [
+                "türkçe",
+                "türkü",
+                "halk müziği",
+                "anadolu"
+            ],
+            "homepageUrl": "https://www.turkuvazradyolar.com/turkuvazanadolu",
+            "verifiedAt": "2026-09-15",
+            "streams": [
+                {
+                    "url": "https://trkvz-radyolar.ercdn.net/turkuvazanadolu/playlist.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "Turkuvaz Radyolar resmî Anadolu oynatıcısı"
+                }
+            ]
+        },
+        {
+            "id": "turkuvaz-musiki",
+            "name": "Turkuvaz Musiki",
+            "category": "Türk Sanat Müziği",
+            "group": "Türk Sanat Müziği",
+            "tags": [
+                "türkçe",
+                "tsm",
+                "sanat müziği"
+            ],
+            "homepageUrl": "https://www.turkuvazradyolar.com/turkuvazmusiki",
+            "verifiedAt": "2026-09-15",
+            "streams": [
+                {
+                    "url": "https://trkvz-radyolar.ercdn.net/turkuvazmusiki/playlist.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "Turkuvaz Radyolar resmî Musiki oynatıcısı"
+                }
+            ]
+        },
+        {
+            "id": "turkuvaz-nostalji",
+            "name": "Turkuvaz Nostalji",
+            "category": "Nostalji",
+            "group": "Nostalji",
+            "tags": [
+                "nostalji",
+                "türkçe",
+                "klasikler"
+            ],
+            "homepageUrl": "https://www.turkuvazradyolar.com/turkuvaznostalji",
+            "verifiedAt": "2026-09-15",
+            "streams": [
+                {
+                    "url": "https://trkvz-radyolar.ercdn.net/turkuvaznostalji/playlist.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "Turkuvaz Radyolar resmî Nostalji oynatıcısı"
+                }
+            ]
+        },
+        {
+            "id": "power-love",
+            "name": "Power Love",
+            "category": "Yabancı Soft",
+            "group": "Slow",
+            "tags": [
+                "yabancı",
+                "slow",
+                "soft",
+                "pop"
+            ],
+            "homepageUrl": "https://www.powerapp.com.tr/radios/powerlove/",
+            "verifiedAt": "2026-09-15",
+            "streams": [
+                {
+                    "url": "https://live.powerapp.com.tr/powerlove/abr/playlist.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "PowerApp resmî kanal oynatıcısı; ses parçasına kadar doğrulandı"
+                }
+            ]
+        },
+        {
+            "id": "powerturk-slow",
+            "name": "PowerTürk Slow",
+            "category": "Türkçe Slow",
+            "group": "Slow",
+            "tags": [
+                "türkçe",
+                "slow",
+                "pop"
+            ],
+            "homepageUrl": "https://www.powerapp.com.tr/radios/powerturkslow/",
+            "verifiedAt": "2026-09-15",
+            "streams": [
+                {
+                    "url": "https://live.powerapp.com.tr/powerturkslow/abr/playlist.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "PowerApp resmî kanal oynatıcısı; ses parçasına kadar doğrulandı"
+                }
+            ]
+        },
+        {
+            "id": "power-pop",
+            "name": "Power Pop",
+            "category": "Türkçe Pop Klasikleri",
+            "group": "Nostalji",
+            "tags": [
+                "türkçe",
+                "pop",
+                "nostalji"
+            ],
+            "homepageUrl": "https://www.powerapp.com.tr/radios/powerpop/",
+            "verifiedAt": "2026-09-15",
+            "streams": [
+                {
+                    "url": "https://live.powerapp.com.tr/powerpop/abr/playlist.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "PowerApp resmî kanal oynatıcısı; ses parçasına kadar doğrulandı"
+                }
+            ]
+        },
+        {
+            "id": "power-gold",
+            "name": "Power Gold",
+            "category": "Yabancı Klasikler",
+            "group": "Nostalji",
+            "tags": [
+                "yabancı",
+                "nostalji",
+                "klasikler"
+            ],
+            "homepageUrl": "https://www.powerapp.com.tr/radios/powergold/",
+            "verifiedAt": "2026-09-15",
+            "streams": [
+                {
+                    "url": "https://live.powerapp.com.tr/powergold/abr/playlist.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "PowerApp resmî kanal oynatıcısı; ses parçasına kadar doğrulandı"
+                }
+            ]
+        },
+        {
+            "id": "alem-slow",
+            "name": "Alem Slow",
+            "category": "Türkçe Slow",
+            "group": "Slow",
+            "tags": [
+                "türkçe",
+                "slow",
+                "romantik"
+            ],
+            "homepageUrl": "https://www.alemfm.com/home/canliradyo",
+            "verifiedAt": "2026-09-15",
+            "streams": [
+                {
+                    "url": "https://alemfm.radyotvonline.net/alemfmslow",
+                    "format": "aacp",
+                    "trust": "official",
+                    "source": "Alem FM resmî portal sayfasındaki doğrudan AAC akışı"
+                }
+            ]
+        },
+        {
+            "id": "alem-plaktan",
+            "name": "Alem Plaktan",
+            "category": "Türkçe Nostalji",
+            "group": "Nostalji",
+            "tags": [
+                "türkçe",
+                "nostalji",
+                "plak",
+                "klasikler"
+            ],
+            "homepageUrl": "https://www.alemfm.com/home/canliradyo",
+            "verifiedAt": "2026-09-15",
+            "streams": [
+                {
+                    "url": "https://alemfm.radyotvonline.net/alemplaktan",
+                    "format": "aacp",
+                    "trust": "official",
+                    "source": "Alem FM resmî portal sayfasındaki doğrudan AAC akışı"
+                }
+            ]
+        },
+        {
+            "id": "alem-farabesk",
+            "name": "Alem Farabesk",
+            "category": "Arabesk",
+            "group": "Arabesk",
+            "tags": [
+                "türkçe",
+                "arabesk",
+                "fantazi"
+            ],
+            "homepageUrl": "https://www.alemfm.com/home/canliradyo",
+            "verifiedAt": "2026-09-15",
+            "streams": [
+                {
+                    "url": "https://alemfm.radyotvonline.net/alemfarabesk",
+                    "format": "aacp",
+                    "trust": "official",
+                    "source": "Alem FM resmî portal sayfasındaki doğrudan AAC akışı"
+                }
+            ]
+        },
+        {
+            "id": "alem-atmosfer",
+            "name": "Alem Atmosfer",
+            "category": "Ambient / Lounge",
+            "group": "Alternatif",
+            "tags": [
+                "ambient",
+                "lounge",
+                "elektronik",
+                "enstrümantal"
+            ],
+            "homepageUrl": "https://www.alemfm.com/home/canliradyo",
+            "verifiedAt": "2026-09-15",
+            "streams": [
+                {
+                    "url": "https://alemfm.radyotvonline.net/alematmosfer",
+                    "format": "aacp",
+                    "trust": "official",
+                    "source": "Alem FM resmî portal sayfasındaki doğrudan AAC akışı"
+                }
+            ]
+        },
+        {
+            "id": "radyo-gol",
+            "name": "Radyo GOL",
+            "category": "Spor",
+            "group": "Spor",
+            "tags": [
+                "spor",
+                "futbol",
+                "haber"
+            ],
+            "homepageUrl": "https://www.radyogol.com.tr/",
+            "logoUrl": "https://www.radyogol.com.tr/wp-content/uploads/2022/04/favicon-w180.png",
+            "verifiedAt": "2026-09-16",
+            "streams": [
+                {
+                    "url": "https://edge1.radyotvonline.net/shoutcast/play/radyogol",
+                    "format": "aac",
+                    "trust": "official",
+                    "source": "Radyo GOL resmî web oynatıcısı; AAC/128 ICY akışı doğrulandı"
+                }
+            ]
+        },
+        {
+            "id": "radyo-7",
+            "name": "Radyo 7",
+            "category": "Türkçe Müzik / Sohbet",
+            "group": "Sohbet",
+            "tags": [
+                "türkçe",
+                "müzik",
+                "sohbet"
+            ],
+            "homepageUrl": "https://www.radyo7.com/",
+            "logoUrl": "https://cdn.kanal7.com/radyo7//application/assets/home/images/radyo_7_kare.jpg",
+            "verifiedAt": "2026-09-16",
+            "streams": [
+                {
+                    "url": "https://moondigitaledge.radyotvonline.net/radyo7/playlist.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "Radyo 7 resmî web oynatıcısı; AAC/131 kbps HLS segmenti doğrulandı"
+                }
+            ]
+        },
+        {
+            "id": "polis-radyosu",
+            "name": "Polis Radyosu",
+            "category": "Türkçe Müzik / Kamu",
+            "group": "Sohbet",
+            "tags": [
+                "polis",
+                "kamu",
+                "türkçe",
+                "program"
+            ],
+            "homepageUrl": "https://polisradyosu.pol.tr/",
+            "logoUrl": "https://polisradyosu.pol.tr/kurumlar/polisradyosu.pol.tr/Logo/polisradyosu_img.png",
+            "verifiedAt": "2026-09-16",
+            "enabled": false,
+            "streams": [
+                {
+                    "url": "https://m.egm.gov.tr:8093//;?type=http&nocache=1",
+                    "format": "aacp",
+                    "trust": "official",
+                    "source": "Resmî web oynatıcısındaki adres; 2026-10-04 denemelerinde bağlantı sıfırlandığı için geçici olarak kapalı"
+                }
+            ]
+        },
+        {
+            "id": "joy-fm",
+            "name": "Joy FM",
+            "category": "Yabancı Soft",
+            "group": "Slow",
+            "tags": [
+                "yabancı",
+                "slow",
+                "easy-listening"
+            ],
+            "homepageUrl": "https://joyfm.com.tr/live/",
+            "logoUrl": "https://mediacdns.karnaval.com/media/station_media/3/logos/android_default_logo.png?v=041022033036",
+            "verifiedAt": "2026-09-16",
+            "streams": [
+                {
+                    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_FMAAC_SC",
+                    "format": "aacp",
+                    "trust": "official",
+                    "source": "Joy FM resmî Karnaval oynatıcısındaki JOY_FM mount; STW AAC+ 64 doğrulandı"
+                },
+                {
+                    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_FM.mp3",
+                    "format": "mp3",
+                    "trust": "official",
+                    "source": "Karnaval StreamTheWorld MP3 yedek akışı doğrulandı"
+                }
+            ]
+        },
+        {
+            "id": "show-radyo",
+            "name": "Show Radyo",
+            "category": "Türkçe Pop",
+            "group": "Türkçe Pop",
+            "tags": [
+                "türkçe",
+                "pop",
+                "hit"
+            ],
+            "homepageUrl": "https://showradyo.com.tr/",
+            "logoUrl": "https://i.showradyo.com.tr/2/210/210/images/2025/07/28/show-radyo-logo-siyah-kare-1080x1080-3FlYmzPm.jpg",
+            "verifiedAt": "2026-09-16",
+            "streams": [
+                {
+                    "url": "https://listen.radyotvonline.net/hls/play/adsonline_showradyo.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "Show Radyo resmî web oynatıcısı; AAC/160 kbps HLS ve ID3 segmenti doğrulandı"
+                }
+            ]
+        },
+        {
+            "id": "slow-turk",
+            "name": "Slow Türk",
+            "category": "Türkçe Slow",
+            "group": "Slow",
+            "tags": [
+                "türkçe",
+                "slow",
+                "aşk"
+            ],
+            "homepageUrl": "https://www.slowturk.com.tr/",
+            "logoUrl": "https://www.slowturk.com.tr/images/android-icon-192x192.png",
+            "verifiedAt": "2026-09-16",
+            "streams": [
+                {
+                    "url": "https://radyo.duhnet.tv/ak_dtvh_slowturk",
+                    "format": "aac",
+                    "trust": "official",
+                    "source": "Slow Türk resmî /api/config radio_url; canlı AAC akışı doğrulandı"
+                }
+            ]
+        },
+        {
+            "id": "diyanet-kuran-radyo",
+            "name": "Diyanet Kur'an Radyo",
+            "category": "Dini / Kur'an",
+            "group": "Dini",
+            "tags": [
+                "dini",
+                "kuran",
+                "meal",
+                "diyanet"
+            ],
+            "homepageUrl": "https://diyanetkuranradyo.com/",
+            "logoUrl": "https://diyanetkuranradyo.com/assets/dd0e55bf-93ba-441b-837c-47df7b115a41",
+            "verifiedAt": "2026-09-16",
+            "streams": [
+                {
+                    "url": "https://eustr76.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c14192aa92.smil/playlist.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "Diyanet Kur'an Radyo resmî live_stream_url; AAC/140.8 kbps HLS doğrulandı"
+                }
+            ]
+        },
+        {
+            "id": "tgrt-fm",
+            "name": "TGRT FM",
+            "category": "Haber / Sohbet",
+            "group": "Haber",
+            "tags": [
+                "haber",
+                "sohbet",
+                "türkçe"
+            ],
+            "homepageUrl": "https://tgrtfm.com.tr/",
+            "logoUrl": "https://tgrtfm.com.tr/wp-content/uploads/2025/01/favicon_512.png",
+            "verifiedAt": "2026-09-16",
+            "streams": [
+                {
+                    "url": "https://icecasttgrt.ihlasdigitalassets.com/tgrtfm",
+                    "format": "mp3",
+                    "trust": "official",
+                    "source": "TGRT FM resmî player JavaScript streamUrl; MP3/128 ICY doğrulandı"
+                }
+            ]
+        },
+        {
+            "id": "radyo-viva",
+            "name": "Radyo Viva",
+            "category": "Türkçe Pop",
+            "group": "Türkçe Pop",
+            "tags": [
+                "türkçe",
+                "pop",
+                "hit"
+            ],
+            "homepageUrl": "https://www.radyoviva.com.tr/",
+            "logoUrl": "https://i.radyoviva.com.tr/2/210/210/images/2025/08/21/viva-rev-logo-beyaz-21082025-kare-1080x1080-min-RM3w71Pu.jpg",
+            "verifiedAt": "2026-09-16",
+            "streams": [
+                {
+                    "url": "https://listen.radyotvonline.net/hls/play/adsonline_radyoviva.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "Radyo Viva resmî web oynatıcısı; AAC/160 kbps HLS ve ID3 segmenti doğrulandı"
+                }
+            ]
+        },
+        {
+            "id": "radyo-d",
+            "name": "Radyo D",
+            "category": "Türkçe Pop",
+            "group": "Türkçe Pop",
+            "tags": [
+                "türkçe",
+                "pop",
+                "hit"
+            ],
+            "homepageUrl": "https://www.radyod.com/",
+            "logoUrl": "https://www.radyod.com/favicon.ico",
+            "verifiedAt": "2026-09-16",
+            "streams": [
+                {
+                    "url": "https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "Radyo D resmî config.json StreamUrl; AAC/130 kbps HLS segmenti doğrulandı"
+                }
+            ]
+        },
+        {
+            "id": "semerkand-radyo",
+            "name": "Semerkand Radyo",
+            "category": "Dini / Tasavvuf",
+            "group": "Dini",
+            "tags": [
+                "tasavvuf",
+                "dini",
+                "sohbet"
+            ],
+            "homepageUrl": "https://semerkandradyo.com.tr/",
+            "verifiedAt": "2026-09-16",
+            "streams": [
+                {
+                    "url": "https://canliyayin.semerkandradyo.com.tr/hls/Radyo/playlist.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "Semerkand Radyo resmî canlı yayın sayfası JS; MPEG-TS/AAC HLS segmenti doğrulandı"
+                }
+            ]
+        },
+        {
+            "id": "olay-fm",
+            "name": "Olay FM",
+            "category": "Türkçe Pop Klasikleri",
+            "group": "Nostalji",
+            "tags": [
+                "türkçe",
+                "80ler",
+                "90lar",
+                "2000ler"
+            ],
+            "homepageUrl": "https://www.bursaolayfm.com/",
+            "verifiedAt": "2026-09-16",
+            "streams": [
+                {
+                    "url": "https://radyo.yayin.com.tr:5018/;",
+                    "format": "aacp",
+                    "trust": "official",
+                    "source": "Bursa Olay FM resmî ana sayfa player URL; canlı AAC+ doğrulandı"
+                }
+            ]
+        },
+        {
+            "id": "virgin-radio-turkiye",
+            "name": "Virgin Radio Türkiye",
+            "category": "Rap / Hip-Hop / R&B",
+            "group": "Alternatif",
+            "tags": [
+                "rap",
+                "hip-hop",
+                "r&b",
+                "hit"
+            ],
+            "homepageUrl": "https://karnaval.com/radyolar/virginradio",
+            "logoUrl": "https://mediacdns.karnaval.com/media/station_media/15/logos/android_default_logo.png?v=041022033315",
+            "verifiedAt": "2026-09-16",
+            "streams": [
+                {
+                    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIO128AAC.aac",
+                    "format": "aacp",
+                    "trust": "official",
+                    "source": "Karnaval resmî Virgin Radio mount_high; StreamTheWorld AAC+ akışı doğrulandı"
+                },
+                {
+                    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIO.mp3",
+                    "format": "mp3",
+                    "trust": "official",
+                    "source": "Karnaval StreamTheWorld MP3 yedek akışı doğrulandı"
+                }
+            ]
+        },
+        {
+            "id": "slow-7",
+            "name": "Slow 7",
+            "category": "Türkçe Slow",
+            "group": "Slow",
+            "tags": [
+                "türkçe",
+                "slow",
+                "aşk"
+            ],
+            "homepageUrl": "https://www.radyo7.com/radyo-dinle/slow7",
+            "logoUrl": "https://cdn.kanal7.com/radyo7/newsite/big/2022/49/afb82901f62a01013ac97db348c84ad2adb3059d.png",
+            "verifiedAt": "2026-09-16",
+            "streams": [
+                {
+                    "url": "https://moondigitaledge2.radyotvonline.net/radyo7slow/playlist.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "Radyo 7 resmî Slow 7 sayfası; AAC/64 kbps HLS segmenti doğrulandı"
+                }
+            ]
+        },
+        {
+            "id": "radyo-pop-90",
+            "name": "Radyo Pop 90",
+            "category": "Türkçe Nostalji",
+            "group": "Nostalji",
+            "tags": [
+                "90lar",
+                "türkçe",
+                "pop",
+                "nostalji"
+            ],
+            "homepageUrl": "https://karnaval.com/radyolar/pop90",
+            "logoUrl": "https://mediacdns.karnaval.com/media/station_media/41/logos/android_default_logo.png",
+            "verifiedAt": "2026-09-16",
+            "streams": [
+                {
+                    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/POP90128AAC.aac",
+                    "format": "aacp",
+                    "trust": "official",
+                    "source": "Karnaval resmî Pop90 mount_high; StreamTheWorld AAC+ akışı doğrulandı"
+                },
+                {
+                    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/POP90.mp3",
+                    "format": "mp3",
+                    "trust": "official",
+                    "source": "Karnaval StreamTheWorld MP3 yedek akışı doğrulandı"
+                }
+            ]
+        },
+        {
+            "id": "radyo-karadenizim",
+            "name": "Radyo Karadenizim",
+            "category": "Bölgesel / Karadeniz",
+            "group": "Karadeniz",
+            "tags": [
+                "karadeniz",
+                "bölgesel",
+                "türkü"
+            ],
+            "homepageUrl": "https://www.karadenizim.com/",
+            "verifiedAt": "2026-09-16",
+            "streams": [
+                {
+                    "url": "https://karadenizimfm.kesintisizyayin.com:9990/;",
+                    "format": "mp3",
+                    "trust": "verified-third-party",
+                    "source": "Güncel dizinlerde tutarlı stream hostu; HTTPS MP3 medya baytları doğrulandı"
+                }
+            ]
+        },
+        {
+            "id": "pal-nostalji",
+            "name": "Pal Nostalji",
+            "category": "Nostalji",
+            "group": "Nostalji",
+            "tags": [
+                "nostalji",
+                "türkçe",
+                "eski-şarkılar"
+            ],
+            "homepageUrl": "https://paldigital.com.tr/radyolar/pal-nostalji",
+            "verifiedAt": "2026-09-16",
+            "streams": [
+                {
+                    "url": "https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "Pal Digital resmî get_station_by_id/2 API; AAC/128 kbps HLS doğrulandı"
+                }
+            ]
+        },
+        {
+            "id": "damar-fm",
+            "name": "Damar FM",
+            "category": "Arabesk",
+            "group": "Arabesk",
+            "tags": [
+                "arabesk",
+                "fantezi",
+                "türkçe"
+            ],
+            "homepageUrl": "https://www.damarfm.com/",
+            "verifiedAt": "2026-09-16",
+            "streams": [
+                {
+                    "url": "https://yayin.damarfm.com:8080/stream",
+                    "format": "aac",
+                    "trust": "official",
+                    "source": "Damar FM resmî main.js STREAM_URL; canlı AAC akışı doğrulandı"
+                }
+            ]
+        },
+        {
+            "id": "ankara-radyo-banko",
+            "name": "Ankara Radyo Banko",
+            "category": "Ankara Havaları",
+            "group": "Yerel",
+            "tags": [
+                "ankara",
+                "oyun-havaları",
+                "türkü"
+            ],
+            "homepageUrl": "https://radyobanko.com/",
+            "logoUrl": "https://radyobanko.com/wp-content/uploads/2024/11/logo.png",
+            "verifiedAt": "2026-09-16",
+            "streams": [
+                {
+                    "url": "https://stream.netradyom.com/listen/radyobanko/radio.mp3",
+                    "format": "aacp",
+                    "trust": "official",
+                    "source": "Radyo Banko resmî tema JS Audio URL; uzantıya rağmen AAC+ akışı doğrulandı"
+                }
+            ]
+        },
+        {
+            "id": "doksanlar-fm",
+            "name": "Doksanlar FM",
+            "category": "Türkçe Nostalji",
+            "group": "Nostalji",
+            "tags": [
+                "90lar",
+                "türkçe",
+                "pop",
+                "nostalji"
+            ],
+            "verifiedAt": "2026-09-16",
+            "streams": [
+                {
+                    "url": "https://moondigitaledge.radyotvonline.net/radyolanddoksanlar/playlist.m3u8",
+                    "format": "hls",
+                    "trust": "verified-third-party",
+                    "source": "Güncel CDN mountu dizinlerle doğrulandı; AAC/127 kbps HLS segmenti test edildi"
+                }
+            ]
+        },
+        {
+            "id": "efkar-fm",
+            "name": "Efkar FM",
+            "category": "Arabesk / Fantezi",
+            "group": "Arabesk",
+            "tags": [
+                "arabesk",
+                "fantezi",
+                "slow"
+            ],
+            "homepageUrl": "https://karnaval.com/radyolar/efkar",
+            "logoUrl": "https://mediacdns.karnaval.com/media/station_media/13/logos/meta_image.png?v=110924093638",
+            "verifiedAt": "2026-09-16",
+            "streams": [
+                {
+                    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/EFKAR128AAC.aac",
+                    "format": "aacp",
+                    "trust": "official",
+                    "source": "Karnaval resmî Efkar mount_high; StreamTheWorld AAC+ akışı doğrulandı"
+                },
+                {
+                    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/EFKAR.mp3",
+                    "format": "mp3",
+                    "trust": "official",
+                    "source": "Karnaval StreamTheWorld MP3 yedek akışı doğrulandı"
+                }
+            ]
+        },
+        {
+            "id": "fenomen-turk",
+            "name": "Fenomen Türk",
+            "category": "Türkçe Pop",
+            "group": "Türkçe Pop",
+            "tags": [
+                "türkçe",
+                "pop",
+                "hit"
+            ],
+            "homepageUrl": "https://www.fenomenturk.com/",
+            "logoUrl": "https://cdn.radyofenomen.com/artwork/logo40.png?v=11",
+            "verifiedAt": "2026-09-16",
+            "streams": [
+                {
+                    "url": "https://live.radyofenomen.com/fenomenturk/128/icecast.audio",
+                    "format": "aacp",
+                    "trust": "official",
+                    "source": "Fenomen Türk resmî FetchStream API; canlı AAC+ akışı doğrulandı"
+                }
+            ]
+        },
+        {
+            "id": "pal-doga",
+            "name": "Pal Doğa",
+            "category": "Türk Halk Müziği",
+            "group": "Türkü",
+            "tags": [
+                "türkü",
+                "halk-müziği",
+                "anadolu"
+            ],
+            "homepageUrl": "https://paldigital.com.tr/radyolar/pal-doga",
+            "verifiedAt": "2026-09-16",
+            "streams": [
+                {
+                    "url": "https://moondigitaledge.radyotvonline.net/paldoga/playlist.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "Pal Digital resmî get_station_by_id/4 API; AAC/95 kbps HLS doğrulandı"
+                }
+            ]
+        },
+        {
+            "id": "karadeniz-fm-98-2",
+            "name": "Karadeniz FM 98.2",
+            "category": "Bölgesel / Karadeniz",
+            "group": "Karadeniz",
+            "tags": [
+                "karadeniz",
+                "bölgesel",
+                "türkü"
+            ],
+            "homepageUrl": "https://www.karadenizfm.com.tr/",
+            "verifiedAt": "2026-09-16",
+            "streams": [
+                {
+                    "url": "https://moondigitaledge.radyotvonline.net/karadenizfm/playlist.m3u8",
+                    "format": "hls",
+                    "trust": "verified-third-party",
+                    "source": "Güncel CDN mountu dizinlerle doğrulandı; AAC/64 kbps HLS segmenti test edildi"
+                }
+            ]
+        },
+        {
+            "id": "pal-station",
+            "name": "Pal Station",
+            "category": "Yabancı Hit",
+            "group": "Yabancı Müzik",
+            "tags": [
+                "yabancı",
+                "pop",
+                "hit"
+            ],
+            "homepageUrl": "https://paldigital.com.tr/radyolar/pal-station",
+            "verifiedAt": "2026-09-16",
+            "streams": [
+                {
+                    "url": "https://moondigitaledge.radyotvonline.net/palstation/playlist.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "Pal Digital resmî get_station_by_id/1 API; AAC/127 kbps HLS doğrulandı"
+                }
+            ]
+        },
+        {
+            "id": "radyo-7-nostalji",
+            "name": "Radyo 7 Nostalji",
+            "category": "Türkçe Nostalji",
+            "group": "Nostalji",
+            "tags": [
+                "nostalji",
+                "türkçe",
+                "eski-şarkılar"
+            ],
+            "homepageUrl": "https://www.radyo7.com/radyo-dinle/nostalji7",
+            "logoUrl": "https://cdn.kanal7.com/radyo7/newsite/big/2022/49/3a2c2bbdc46a926181522e058e48481a3ad7f480.png",
+            "verifiedAt": "2026-09-16",
+            "streams": [
+                {
+                    "url": "https://moondigitaledge2.radyotvonline.net/radyo7nostalji/playlist.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "Radyo 7 resmî Nostalji 7 sayfası; AAC/63 kbps HLS doğrulandı"
+                }
+            ]
+        },
+        {
+            "id": "radyo-7-turku",
+            "name": "Radyo 7 Türkü",
+            "category": "Türk Halk Müziği",
+            "group": "Türkü",
+            "tags": [
+                "türkü",
+                "halk-müziği",
+                "anadolu"
+            ],
+            "homepageUrl": "https://www.radyo7.com/radyo-dinle/turku7",
+            "logoUrl": "https://cdn.kanal7.com/radyo7/newsite/big/2022/49/217b33f98bb9578b0bf166a48d128dead71506fc.png",
+            "verifiedAt": "2026-09-16",
+            "streams": [
+                {
+                    "url": "https://moondigitaledge2.radyotvonline.net/radyo7turku/playlist.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "Radyo 7 resmî Türkü 7 sayfası; AAC/64 kbps HLS doğrulandı"
+                }
+            ]
+        },
+        {
+            "id": "radyo-cnn-turk",
+            "name": "Radyo CNN Türk",
+            "category": "Haber",
+            "group": "Haber",
+            "tags": [
+                "haber",
+                "sohbet",
+                "gündem"
+            ],
+            "homepageUrl": "https://www.cnnturk.com/radyo",
+            "verifiedAt": "2026-09-16",
+            "streams": [
+                {
+                    "url": "https://moondigitaledge2.radyotvonline.net/cnnturk/playlist.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "CNN Türk resmî radyo sayfası; AAC/130 kbps HLS segmenti doğrulandı"
+                }
+            ]
+        },
+        {
+            "id": "radyo-arabesk",
+            "name": "Radyo Arabesk",
+            "category": "Arabesk",
+            "group": "Arabesk",
+            "tags": [
+                "arabesk",
+                "fantezi",
+                "türkçe"
+            ],
+            "homepageUrl": "https://radyoarabesk.com.tr/",
+            "verifiedAt": "2026-09-16",
+            "streams": [
+                {
+                    "url": "https://yayin.radyoarabesk.com.tr:8000/stream",
+                    "format": "aacp",
+                    "trust": "verified-third-party",
+                    "source": "Resmî alan adındaki Icecast akışı dizinlerle doğrulandı; canlı AAC+ test edildi"
+                }
+            ]
+        },
+        {
+            "id": "show-90lar",
+            "name": "Show 90'lar",
+            "category": "Türkçe Nostalji",
+            "group": "Nostalji",
+            "tags": [
+                "90lar",
+                "türkçe",
+                "pop",
+                "nostalji"
+            ],
+            "homepageUrl": "https://www.showradyo.com.tr/",
+            "logoUrl": "https://i.showradyo.com.tr/images/2025/07/11/kSH5uPILqlNptbhdBERf.jpg",
+            "verifiedAt": "2026-09-16",
+            "streams": [
+                {
+                    "url": "https://listen.radyotvonline.net/hls/play/show_90lar.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "Show Radyo resmî station stream_link; AAC/160 kbps HLS ve ID3 doğrulandı"
+                }
+            ]
+        },
+        {
+            "id": "radyo-seymen",
+            "name": "Radyo Seymen",
+            "category": "Ankara Havaları",
+            "group": "Yerel",
+            "tags": [
+                "ankara",
+                "oyun havaları",
+                "bozlak"
+            ],
+            "homepageUrl": "https://radyoseymen.com.tr/",
+            "verifiedAt": "2026-09-22",
+            "streams": [
+                {
+                    "url": "https://yayin.radyoseymen.com.tr:1070/stream",
+                    "format": "aacp",
+                    "trust": "official",
+                    "source": "Resmî canlı dinle sayfası; HEAD 200 audio/aacp, icy-name RADYO SEYMEN"
+                }
+            ]
+        },
+        {
+            "id": "radyo-trafik-ankara",
+            "name": "Radyo Trafik Ankara",
+            "category": "Trafik / Ankara",
+            "group": "Yerel",
+            "tags": [
+                "ankara",
+                "trafik",
+                "haber"
+            ],
+            "homepageUrl": "https://www.radyotrafik.com/ankara",
+            "verifiedAt": "2026-09-22",
+            "streams": [
+                {
+                    "url": "https://wowza1.radyotvonline.com/saran/radyotrafikankara.stream/playlist.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "Resmî Ankara oynatıcı sayfası; GET 200 HLS, AAC oynatma listesi"
+                }
+            ]
+        },
+        {
+            "id": "radyo-karadeniz",
+            "name": "Radyo Karadeniz",
+            "category": "Karadeniz Müziği",
+            "group": "Karadeniz",
+            "tags": [
+                "karadeniz",
+                "rize",
+                "yerel"
+            ],
+            "homepageUrl": "https://radyokaradeniz.com/",
+            "verifiedAt": "2026-09-22",
+            "streams": [
+                {
+                    "url": "https://dinle.radyokaradeniz.com/stream",
+                    "format": "mp3",
+                    "trust": "official",
+                    "source": "Resmî site oynatıcısı; HEAD 200 audio/mpeg, icy-name Radyo Karadeniz"
+                }
+            ]
+        },
+        {
+            "id": "radyo-rize",
+            "name": "Radyo Rize",
+            "category": "Karadeniz Müziği",
+            "group": "Karadeniz",
+            "tags": [
+                "rize",
+                "karadeniz",
+                "yerel"
+            ],
+            "homepageUrl": "https://www.radyorize.com/",
+            "verifiedAt": "2026-09-22",
+            "streams": [
+                {
+                    "url": "https://dinle.radyorize.com/8010/stream",
+                    "format": "mp3",
+                    "trust": "official",
+                    "source": "Resmî site oynatıcısı; HEAD 200 audio/mpeg"
+                }
+            ]
+        },
+        {
+            "id": "turku-radyo",
+            "name": "Türkü Radyo",
+            "category": "Türk Halk Müziği",
+            "group": "Türkü",
+            "tags": [
+                "türkü",
+                "halk müziği"
+            ],
+            "verifiedAt": "2026-09-22",
+            "streams": [
+                {
+                    "url": "https://yayin.turkhosted.com/4591/stream",
+                    "format": "mp3",
+                    "trust": "verified-third-party",
+                    "source": "Radio Browser kaydı; HEAD 200 audio/mpeg, icy-name TÜRKÜ RADYO"
+                }
+            ]
+        },
+        {
+            "id": "yon-radyo",
+            "name": "Yön Radyo",
+            "category": "Türk Halk Müziği",
+            "group": "Türkü",
+            "tags": [
+                "türkü",
+                "özgün müzik",
+                "istanbul"
+            ],
+            "verifiedAt": "2026-09-22",
+            "streams": [
+                {
+                    "url": "https://stream.radyolarburada.com:8020/yonradyo",
+                    "format": "mp3",
+                    "trust": "official",
+                    "source": "Resmî site oynatıcı hostu; HEAD 200 audio/mpeg, icy-name Yon Radyo"
+                }
+            ],
+            "homepageUrl": "https://yonradyo.com.tr/"
+        },
+        {
+            "id": "radyo-ekin",
+            "name": "Radyo Ekin",
+            "category": "Türk Halk Müziği",
+            "group": "Türkü",
+            "tags": [
+                "türkü",
+                "halk müziği",
+                "istanbul"
+            ],
+            "verifiedAt": "2026-09-22",
+            "streams": [
+                {
+                    "url": "https://yayin.turkhosted.com/6006/stream",
+                    "format": "aacp",
+                    "trust": "official",
+                    "source": "Resmî sayfada tam akış URL'si; HEAD 200 audio/aacp, icy-name Radyo Ekin"
+                }
+            ],
+            "homepageUrl": "https://www.radyoekin.net/"
+        },
+        {
+            "id": "baba-radyo",
+            "name": "Baba Radyo",
+            "category": "Arabesk",
+            "group": "Arabesk",
+            "tags": [
+                "arabesk",
+                "fantezi"
+            ],
+            "verifiedAt": "2026-09-22",
+            "streams": [
+                {
+                    "url": "https://babaradyo.turkhosted.com/best/babaradyo.stream/playlist.m3u8",
+                    "format": "hls",
+                    "trust": "verified-third-party",
+                    "source": "Radio Browser kaydı; GET 200 HLS AAC oynatma listesi"
+                }
+            ],
+            "homepageUrl": "https://www.babaradyo.com/"
+        },
+        {
+            "id": "adana-fm",
+            "name": "Adana FM",
+            "category": "Arabesk / Nostalji",
+            "group": "Yerel",
+            "tags": [
+                "adana",
+                "arabesk",
+                "nostalji"
+            ],
+            "verifiedAt": "2026-09-22",
+            "streams": [
+                {
+                    "url": "https://host.onlineradyotv.net:2020/stream/adanafm",
+                    "format": "aacp",
+                    "trust": "official",
+                    "source": "Resmî sayfada yayın hostu; HEAD 200 audio/aacp"
+                }
+            ],
+            "homepageUrl": "https://www.adanafm.com.tr/"
+        },
+        {
+            "id": "radyo-karakocan",
+            "name": "Radyo Karakoçan",
+            "category": "Yerel / Elazığ",
+            "group": "Yerel",
+            "tags": [
+                "elazığ",
+                "karakoçan",
+                "yerel"
+            ],
+            "verifiedAt": "2026-09-22",
+            "streams": [
+                {
+                    "url": "https://radyokarakocan.ozelip.com/8006/stream",
+                    "format": "aacp",
+                    "trust": "verified-third-party",
+                    "source": "Radio Browser kaydı; HEAD 200 audio/aacp, icy-name Radyo Karakoçan"
+                }
+            ],
+            "homepageUrl": "https://www.radyokarakocan.com/"
+        },
+        {
+            "id": "radyo-akdeniz",
+            "name": "Radyo Akdeniz",
+            "category": "Yerel / Antalya",
+            "group": "Yerel",
+            "tags": [
+                "antalya",
+                "akdeniz",
+                "yerel"
+            ],
+            "verifiedAt": "2026-09-22",
+            "streams": [
+                {
+                    "url": "https://yayin.radyoakdeniz.com/9470/stream",
+                    "format": "aacp",
+                    "trust": "official",
+                    "source": "Resmî yayıncı alan adı; HEAD 200 audio/aacp, icy-name RADYO AKDENIZ"
+                }
+            ],
+            "homepageUrl": "https://www.radyoakdeniz.com/"
+        },
+        {
+            "id": "radyo-pause",
+            "name": "Radyo Pause",
+            "category": "Alternatif Müzik",
+            "group": "Alternatif",
+            "tags": [
+                "izmir",
+                "alternatif",
+                "rock"
+            ],
+            "verifiedAt": "2026-09-22",
+            "streams": [
+                {
+                    "url": "https://radyopause.ozelip.com.tr:8040/",
+                    "format": "mp3",
+                    "trust": "verified-third-party",
+                    "source": "Radio Browser kaydı; HEAD 200 audio/mpeg, icy-name RADYO PAUSE"
+                }
+            ],
+            "homepageUrl": "https://radyopause.com.tr/"
+        },
+        {
+            "id": "radyo-35",
+            "name": "Radyo 35",
+            "category": "Yerel / İzmir",
+            "group": "Yerel",
+            "tags": [
+                "izmir",
+                "ege",
+                "yerel"
+            ],
+            "verifiedAt": "2026-09-22",
+            "streams": [
+                {
+                    "url": "https://yayin.turkhosted.com/6012/stream",
+                    "format": "aacp",
+                    "trust": "official",
+                    "source": "Resmî sayfada tam akış URL'si; HEAD 200 audio/aacp, icy-name radyo 35"
+                }
+            ],
+            "homepageUrl": "https://www.radyo35.com/"
+        },
+        {
+            "id": "imbat-fm",
+            "name": "İmbat FM",
+            "category": "Yerel / İzmir",
+            "group": "Yerel",
+            "tags": [
+                "izmir",
+                "ege",
+                "yerel"
+            ],
+            "verifiedAt": "2026-09-22",
+            "streams": [
+                {
+                    "url": "https://radyo.medyahost.com.tr/8034/stream",
+                    "format": "aacp",
+                    "trust": "verified-third-party",
+                    "source": "Radio Browser kaydı; HEAD 200 audio/aacp, icy-name İMBAT FM"
+                }
+            ],
+            "homepageUrl": "https://kordonmedya.com/"
+        },
+        {
+            "id": "radyo-net-konya",
+            "name": "Radyo Net",
+            "category": "Yerel / Konya",
+            "group": "Yerel",
+            "tags": [
+                "konya",
+                "yerel",
+                "pop"
+            ],
+            "verifiedAt": "2026-09-22",
+            "streams": [
+                {
+                    "url": "https://sslyayin.netyayin.net:8068/",
+                    "format": "aacp",
+                    "trust": "verified-third-party",
+                    "source": "Radio Browser kaydı; HEAD 200 audio/aacp, icy-name RADYO NET FM; resmî site Konya 105.5"
+                }
+            ],
+            "homepageUrl": "https://www.radyonetfm.net/"
+        },
+        {
+            "id": "radyo-ulku",
+            "name": "Radyo Ülkü",
+            "category": "Türk Halk Müziği",
+            "group": "Türkü",
+            "tags": [
+                "konya",
+                "türkü",
+                "yerel"
+            ],
+            "verifiedAt": "2026-09-22",
+            "streams": [
+                {
+                    "url": "https://radyo.yayin.com.tr:4006/",
+                    "format": "aacp",
+                    "trust": "official",
+                    "source": "Resmî sayfada yayın hostu; HEAD 200 audio/aacp, icy-name RADYO ÜLKÜ"
+                }
+            ],
+            "homepageUrl": "https://www.radyoulku.com/"
+        },
+        {
+            "id": "elazig-mavi-radyo",
+            "name": "Elazığ Mavi Radyo",
+            "category": "Yerel / Elazığ",
+            "group": "Yerel",
+            "tags": [
+                "elazığ",
+                "mavi radyo",
+                "yerel"
+            ],
+            "verifiedAt": "2026-09-22",
+            "streams": [
+                {
+                    "url": "https://yayin.turkhosted.com/6066/stream",
+                    "format": "mp3",
+                    "trust": "verified-third-party",
+                    "source": "Radio Browser kaydı; HEAD 200 audio/mpeg, icy-name Mavi Radyo Elazığ 95.4"
+                }
+            ]
+        },
+        {
+            "id": "radyo-23",
+            "name": "Radyo 23",
+            "category": "Yerel / Elazığ",
+            "group": "Yerel",
+            "tags": [
+                "elazığ",
+                "fm23",
+                "yerel"
+            ],
+            "verifiedAt": "2026-09-22",
+            "streams": [
+                {
+                    "url": "https://radyo.yayin.com.tr:8280/",
+                    "format": "aacp",
+                    "trust": "official",
+                    "source": "Resmî sayfada yayın hostu; HEAD 200 audio/aacp, icy-name RADYO FM23 ELAZIG"
+                }
+            ],
+            "homepageUrl": "https://www.radyofm23.com/"
+        },
+        {
+            "id": "radyo-venus",
+            "name": "Radyo Venüs",
+            "category": "Yerel / Bandırma",
+            "group": "Yerel",
+            "tags": [
+                "bandırma",
+                "balıkesir",
+                "yerel"
+            ],
+            "verifiedAt": "2026-09-22",
+            "streams": [
+                {
+                    "url": "https://stream2.rtvtakip.com:7005/;stream.mp3",
+                    "format": "aacp",
+                    "trust": "official",
+                    "source": "Resmî sayfada tam akış URL'si; HEAD 200 audio/aacp, icy-name VENUS FM"
+                }
+            ],
+            "homepageUrl": "https://www.radyovenus.net/"
+        },
+        {
+            "id": "diyanet-radyo",
+            "name": "Diyanet Radyo",
+            "category": "Dini / Program",
+            "group": "Dini",
+            "tags": [
+                "diyanet",
+                "dini",
+                "sohbet"
+            ],
+            "verifiedAt": "2026-09-22",
+            "streams": [
+                {
+                    "url": "https://eustr76.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1171d7d2a.smil/playlist.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "Diyanet Radyo resmî live_stream_url; GET 200 AAC HLS oynatma listesi"
+                }
+            ],
+            "homepageUrl": "https://diyanetradyo.com/",
+            "logoUrl": "https://diyanetradyo.com/assets/3c506223-d3b4-4eeb-b81c-971ddb3fed2c"
+        },
+        {
+            "id": "diyanet-risalet-radyo",
+            "name": "Diyanet Risalet Radyo",
+            "category": "Dini / Siyer",
+            "group": "Dini",
+            "tags": [
+                "diyanet",
+                "risalet",
+                "dini"
+            ],
+            "verifiedAt": "2026-09-22",
+            "streams": [
+                {
+                    "url": "https://eustr76.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1520b2626.smil/playlist.m3u8",
+                    "format": "hls",
+                    "trust": "official",
+                    "source": "Diyanet Radyo resmî player JSON; GET 200 AAC HLS oynatma listesi"
+                }
+            ],
+            "homepageUrl": "https://risaletradyo.com/",
+            "logoUrl": "https://diyanetradyo.com/assets/a096100b-bc9b-443b-8196-fac2c2cc554d"
+        },
+        {
+            "id": "radyo-odtu",
+            "name": "Radyo ODTÜ",
+            "category": "Alternatif / Rock",
+            "group": "Alternatif",
+            "tags": [
+                "ankara",
+                "odtü",
+                "alternatif"
+            ],
+            "verifiedAt": "2026-09-22",
+            "streams": [
+                {
+                    "url": "https://stream.radyoodtu.com.tr/canli",
+                    "format": "aacp",
+                    "trust": "official",
+                    "source": "Resmî site player JS akışı; HEAD 200 audio/aacp, icy-name Radyo ODTU Canli Yayin"
+                }
+            ],
+            "homepageUrl": "https://www.radyoodtu.com.tr/"
+        },
+        {
+            "id": "radyo-avrasya-turk",
+            "name": "Radyo Avrasya Türk",
+            "category": "Türk Halk Müziği",
+            "group": "Türkü",
+            "tags": [
+                "ankara",
+                "türkü",
+                "halk müziği"
+            ],
+            "verifiedAt": "2026-09-22",
+            "streams": [
+                {
+                    "url": "https://sslyayin.netyayin.net:10909/",
+                    "format": "aacp",
+                    "trust": "verified-third-party",
+                    "source": "Radio Browser kaydı; HEAD 200 audio/aacp, icy-name AVRASYA TÜRK"
+                }
+            ]
+        },
+        {
+            "id": "hayatmix-arabesk",
+            "name": "HayatMix Arabesk",
+            "category": "Arabesk",
+            "group": "Arabesk",
+            "tags": [
+                "arabesk",
+                "hayatmix"
+            ],
+            "verifiedAt": "2026-09-22",
+            "streams": [
+                {
+                    "url": "https://radyo.yayin.com.tr:4078/mp3",
+                    "format": "mp3",
+                    "trust": "verified-third-party",
+                    "source": "HayatMix oynatıcı marka eşleşmesi; Radio Browser adresi HEAD 200 audio/mpeg"
+                }
+            ],
+            "homepageUrl": "https://player.yayin.com.tr/fplayer/hayatmix/"
+        },
+        {
+            "id": "radyo-romantik-turk",
+            "name": "Radyo Romantik Türk",
+            "category": "Türkçe Slow",
+            "group": "Slow",
+            "tags": [
+                "izmir",
+                "slow",
+                "romantik"
+            ],
+            "verifiedAt": "2026-09-22",
+            "streams": [
+                {
+                    "url": "https://radyo.yayin.com.tr:6042/",
+                    "format": "aacp",
+                    "trust": "verified-third-party",
+                    "source": "Radio Browser kaydı; HEAD 200 audio/aacp, icy-name Radyo Romantik Türk"
+                }
+            ]
+        },
+        {
+            "id": "radyo-kilim",
+            "name": "Radyo Kilim",
+            "category": "Yerel / Gaziantep",
+            "group": "Yerel",
+            "tags": [
+                "gaziantep",
+                "yerel",
+                "kilim"
+            ],
+            "verifiedAt": "2026-09-22",
+            "streams": [
+                {
+                    "url": "https://sslyayin.netyayin.net:10946/",
+                    "format": "aacp",
+                    "trust": "verified-third-party",
+                    "source": "Radio Browser kaydı; HEAD 200 audio/aacp, icy-name Gaziantep Kilim FM 100.0"
+                }
+            ]
+        },
+        {
+            "id": "sivas-fm",
+            "name": "Sivas FM",
+            "category": "Tasavvuf / Özgün",
+            "group": "Yerel",
+            "tags": [
+                "sivas",
+                "tasavvuf",
+                "özgün müzik"
+            ],
+            "verifiedAt": "2026-09-22",
+            "streams": [
+                {
+                    "url": "https://yayin2.canliyayin.org:10960/;stream",
+                    "format": "mp3",
+                    "trust": "official",
+                    "source": "Resmî site player akışı; HEAD 200 audio/mpeg"
+                }
+            ],
+            "homepageUrl": "https://www.sivasfm.com.tr/"
+        }
+    ]
+}
